@@ -22,7 +22,7 @@
 
 ---
 
-## 🖇️ -- CONNECT WITH ME
+## 🖇️ -- Contact Us (Me)
   <p>
   <a href="https://github.com">🖇️ GITHUB</a>
     <br>
