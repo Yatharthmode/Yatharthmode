@@ -25,6 +25,7 @@
 ## 🖇️ -- CONNECT WITH ME
   <p>
   <a href="https://github.com">🖇️ GITHUB</a>
+    <br>
   <a href="https://www.instagram.com/yatharth_kumar_99">🖇️ INSTRAGRAM</a>
   </p>
   
