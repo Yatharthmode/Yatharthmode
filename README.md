@@ -17,12 +17,16 @@
 ## 🛠️ Skills (Learning)
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js" />
-  -- CONNECT WITH ME
-  <a href="https://github.com">GITHUB</a>
 </p>
+
 
 ---
 
+## 🖇️ -- CONNECT WITH ME
+  <p>
+  <a href="https://github.com">GITHUB</a>
+  </p>
+  
 ## 📌 Current Focus
 ```text
 Basics → Logic → Projects → Open Source
