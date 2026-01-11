@@ -57,7 +57,7 @@ Basics → Logic → Projects → Open Source
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/Yatharthmode  
+- GitHub: <a src="https://github.com/Yatharthmode">GITHUB</a>
 - Instragram: https://www.instagram.com/yatharth_kumar_99   
 ---
 
