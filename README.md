@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm YT  
 
-<!--
-**Yatharthmode/Yatharthmode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Beginner Developer | Self-Learner**  
+💻 Learning **Python & JavaScript**  
+🎮 Dream: Become a **Game Developer**  
+🇮🇳 From **Bihar, India**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🌱 Currently learning programming step by step  
+- 💡 Interested in **Game Dev, Automation & Tech Projects**  
+- 🤝 Open to learning, collaboration & guidance  
+- 🎯 Goal: Build useful things for people  
+
+---
+
+## 🛠️ Skills (Learning)
+- 🐍 Python  
+- 🌐 HTML & CSS  
+- ⚡ JavaScript  
+
+---
+
+## 📌 Current Focus
+- Basics → Projects  
+- Logic building  
+- Open-source learning  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Yatharthmode  
+
+---
+
+⭐ *“Start small, learn daily, build big.”*
