@@ -17,6 +17,8 @@
 ## 🛠️ Skills (Learning)
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  -- CONNECT WITH ME
+  <a href="https://github.com">GITHUB</a>
 </p>
 
 ---
@@ -56,9 +58,6 @@ Basics → Logic → Projects → Open Source
 
 ---
 
-## 📫 Connect With Me
-- GitHub: <a src="https://github.com/Yatharthmode">GITHUB</a>
-- Instragram: https://www.instagram.com/yatharth_kumar_99   
 ---
 
 ⭐ *“Start small, learn daily, build big.”*
