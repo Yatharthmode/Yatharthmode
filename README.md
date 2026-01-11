@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills (Learning)
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,c++" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp" />
 </p>
 
 
